@@ -49,3 +49,5 @@ Here are some ideas to get you started:
 ## Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theodoros-kondakos/)
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
