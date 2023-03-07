@@ -80,6 +80,8 @@ Here are some ideas to get you started:
 
 <hr>
 
+## My github statistics
+
 <p float="left">
 
 
@@ -93,7 +95,7 @@ Here are some ideas to get you started:
 
 </p>
 
-### Let's connect!
+## Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theodoros-kondakos/)
 
