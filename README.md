@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 
 #### I code with ![vscode](https://user-images.githubusercontent.com/25774466/223415158-2c535bdf-35c4-4571-b8f8-1ef0731a2595.svg) using (Cyberpunk Theme)[https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk]
 
-#### I am transitioning from writing ![javascript](https://user-images.githubusercontent.com/25774466/223416274-f0934cf6-c7ac-48f0-82fc-96177ae518e6.svg) to ![ts](https://user-images.githubusercontent.com/25774466/223415711-66f85957-4fe5-483e-9f93-2211bdc95164.svg)
+#### I am transitioning from writing ![javascript](https://user-images.githubusercontent.com/25774466/223416274-f0934cf6-c7ac-48f0-82fc-96177ae518e6.svg  | width=100) to ![ts](https://user-images.githubusercontent.com/25774466/223415711-66f85957-4fe5-483e-9f93-2211bdc95164.svg | width=100)
 
 #### I am passionately writing code for:
-![react](https://user-images.githubusercontent.com/25774466/223416496-325ac140-a5ed-4a40-8c28-56792a46bf03.svg)
-![nextJs](https://user-images.githubusercontent.com/25774466/223416492-4fb9bec2-36b1-47fb-9965-88b658ea725c.svg)
+![react](https://user-images.githubusercontent.com/25774466/223416496-325ac140-a5ed-4a40-8c28-56792a46bf03.svg | width=100)
+![nextJs](https://user-images.githubusercontent.com/25774466/223416492-4fb9bec2-36b1-47fb-9965-88b658ea725c.svg | width=100)
 
-#### Using ![rest-api-icon](https://user-images.githubusercontent.com/25774466/223416815-01f9a6aa-1503-406d-aee6-5011cdf8fed8.svg)
+#### Using ![rest-api-icon](https://user-images.githubusercontent.com/25774466/223416815-01f9a6aa-1503-406d-aee6-5011cdf8fed8.svg | width=100)
 
 #### I am currently learning:
-![nodeJs](https://user-images.githubusercontent.com/25774466/223416495-44b66f72-05a4-4901-9d6c-5b3220af464d.svg)
-![expressjs](https://user-images.githubusercontent.com/25774466/223416484-9e955486-f824-44ce-b635-c857c493024e.svg)
-![astro-icon-light](https://user-images.githubusercontent.com/25774466/223416499-03e79c58-fe71-45f9-afd4-46b75b3c423e.svg)
-![graphql](https://user-images.githubusercontent.com/25774466/223417390-77a4c8db-4814-4b5f-a1fc-01aab47e2ed5.svg)
-![mongoDb](https://user-images.githubusercontent.com/25774466/223417393-31605b5f-e43c-4fda-bc12-0d91e10746f2.svg)
+![nodeJs](https://user-images.githubusercontent.com/25774466/223416495-44b66f72-05a4-4901-9d6c-5b3220af464d.svg | width=100)
+![expressjs](https://user-images.githubusercontent.com/25774466/223416484-9e955486-f824-44ce-b635-c857c493024e.svg | width=100)
+![astro-icon-light](https://user-images.githubusercontent.com/25774466/223416499-03e79c58-fe71-45f9-afd4-46b75b3c423e.svg | width=100)
+![graphql](https://user-images.githubusercontent.com/25774466/223417390-77a4c8db-4814-4b5f-a1fc-01aab47e2ed5.svg | width=100)
+![mongoDb](https://user-images.githubusercontent.com/25774466/223417393-31605b5f-e43c-4fda-bc12-0d91e10746f2.svg | width=160)
 
