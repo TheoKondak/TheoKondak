@@ -24,12 +24,15 @@ Here are some ideas to get you started:
 <!-- #### Using <img src="https://user-images.githubusercontent.com/25774466/223416815-01f9a6aa-1503-406d-aee6-5011cdf8fed8.svg"  width="37"  alt='RestAPI'> -->
 
 #### I am currently learning:
+
+<p float="left" style='background: white;'>
+
 <img src="https://user-images.githubusercontent.com/25774466/223416495-44b66f72-05a4-4901-9d6c-5b3220af464d.svg"  width="100"  alt='NodeJs icon'>
 <img src="https://user-images.githubusercontent.com/25774466/223416484-9e955486-f824-44ce-b635-c857c493024e.svg"  width="100"  alt='Express JS'>
 <img src="https://user-images.githubusercontent.com/25774466/223416499-03e79c58-fe71-45f9-afd4-46b75b3c423e.svg"  width="30"  alt='Astro JS Icon'>
 <img src="https://user-images.githubusercontent.com/25774466/223417390-77a4c8db-4814-4b5f-a1fc-01aab47e2ed5.svg"  width="100"  alt='GraphQL Icon'>
 <img src="https://user-images.githubusercontent.com/25774466/223417393-31605b5f-e43c-4fda-bc12-0d91e10746f2.svg"  width="160"  alt='MongoDB Icon'>
-
+</p>
 
 ## Let's connect!
 
