@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### I code with ![vscode](https://user-images.githubusercontent.com/25774466/223415158-2c535bdf-35c4-4571-b8f8-1ef0731a2595.svg) using [Cyberpunk Theme](https://marketplace.visualstudio.com/items?itemName=max-SS.cyberpunk)
 
-#### I am transitioning from writing ![javascript](https://user-images.githubusercontent.com/25774466/223416274-f0934cf6-c7ac-48f0-82fc-96177ae518e6.svg?w=100) to ![ts](https://user-images.githubusercontent.com/25774466/223415711-66f85957-4fe5-483e-9f93-2211bdc95164.svg?w=100)
+#### I am transitioning from writing <img src="https://user-images.githubusercontent.com/25774466/223416274-f0934cf6-c7ac-48f0-82fc-96177ae518e6.svg"  width="50"  alt='JavaScript Icon'> ! to ![ts](https://user-images.githubusercontent.com/25774466/223415711-66f85957-4fe5-483e-9f93-2211bdc95164.svg?w=100)
 
 #### I am passionately writing code for:
 ![react](https://user-images.githubusercontent.com/25774466/223416496-325ac140-a5ed-4a40-8c28-56792a46bf03.svg?w=100)
