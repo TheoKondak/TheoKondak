@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Theo
+
 <hr/>
+
 **An aspired software engineer!**
 
 Here are some ideas to get you started:
