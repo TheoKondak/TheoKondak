@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ### And documenting them with
 
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)  and  ![mermaid](https://user-images.githubusercontent.com/25774466/223553865-0c4665b5-ebe6-4426-9f14-75507c18ba28.svg)Mermaid 
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/) ![mermaid](https://user-images.githubusercontent.com/25774466/223553865-0c4665b5-ebe6-4426-9f14-75507c18ba28.svg)**Mermaid** ![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 
 <p float="left">
