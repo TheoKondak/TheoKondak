@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 [![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
 [![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)](https://prettier.io/)
 
+Following [Airbnb JavaScript Style Guide()](https://github.com/airbnb/javascript)
+
 ### Version Control with
 
 ![Githuhb](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -60,17 +62,18 @@ Here are some ideas to get you started:
 ### Designing stuff with
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)](https://miro.com/)
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/be_en/products/photoshop/landpb.html?gclid=CjwKCAiA3pugBhAwEiwAWFzwdWoRZkaTmdAJhFa0RqPoQTHPd3UJ3LRVCXS3fE3eZ0ETaIRZPQl-lxoC43wQAvD_BwE&mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAiA3pugBhAwEiwAWFzwdWoRZkaTmdAJhFa0RqPoQTHPd3UJ3LRVCXS3fE3eZ0ETaIRZPQl-lxoC43wQAvD_BwE:G:s&s_kwcid=AL!3085!3!445311000415!e!!g!!photoshop!10432291863!103882922872)
 
 ### Managing projects with
 
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/home)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 ### And documenting them with
 
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/) ![mermaid](https://user-images.githubusercontent.com/25774466/223553865-0c4665b5-ebe6-4426-9f14-75507c18ba28.svg)**Mermaid** ![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/) 
+[![mermaid](https://user-images.githubusercontent.com/25774466/223553865-0c4665b5-ebe6-4426-9f14-75507c18ba28.svg)**Mermaid**](https://mermaid.js.org/)
+[![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/)
 
 
 <p float="left">
@@ -85,20 +88,24 @@ Here are some ideas to get you started:
 <p float="left">
 
 
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheoKondak&theme=tokyonight)
+
 
 <!-- ![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoKondak&theme=tokyonight) -->
 
-![GitHub Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=TheoKondak&theme=tokyonight)
+
 
 <!-- ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=TheoKondak&theme=tokyonight) -->
 
 </p>
 
+| ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheoKondak&theme=tokyonight) | ![GitHub Most Used Languages](https://github-readme-streak-stats.herokuapp.com/?user=TheoKondak&theme=tokyonight) |
+|-|-|
+
+
 ## Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theodoros-kondakos/)
 
-
+<small>Badges and graphs from [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)</small>
 
 <!-- Sources: Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
