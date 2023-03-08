@@ -1,4 +1,7 @@
-### Hi there 👋 I am Theo
+### Hi there 👋 I am Theo 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theodoros-kondakos/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thkondak@gmail.com)
 
 <hr/>
 
@@ -109,6 +112,9 @@ Following [Airbnb JavaScript Style Guide()](https://github.com/airbnb/javascript
 ## Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theodoros-kondakos/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thkondak@gmail.com)
+
+
 
 <small>Badges and graphs from [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)</small>
 
